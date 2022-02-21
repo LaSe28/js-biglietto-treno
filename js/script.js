@@ -1,9 +1,9 @@
 let element = document.getElementById('my-output');
 const euroKm = 0.21
 
-
 let distance = prompt('Quanti km devi percorrere?');
 let age = prompt('Quanti anni hai?');
+
 let price = distance * euroKm;
 let finalPrice = price.toFixed(2);
 
