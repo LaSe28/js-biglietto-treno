@@ -17,10 +17,6 @@ let finalPrice20 = discounted20.toFixed(2)
 
 
 
-
-
-console.log(finalPrice)
-
 if (age > 65){
     element.innerHTML = `
     <div>
